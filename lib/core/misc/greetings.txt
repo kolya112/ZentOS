@@ -1,0 +1,28 @@
+Level 2 and 3 screens can act as touch screens - do not plug in a keyboard or activate them covertly.
+You can change the text size on the screens by changing their resolution - run "resolution 40 16" in the shell.
+Shooting arrows on touch screens can trigger touch events.
+The colors of the items indicate their level: white is the first level, yellow is the second level, and blue is the third level.
+Use the Analyzer to get more information about the blocks, for example, to find out why the computer crashed.
+Keyboards must be attached to or placed near the screen in order to work.
+Did you know that ZentOS is developing a gaming enterprise on the Hilarios(hil.su) project?
+Internet cards can be used to make HTTP requests and open raw TCP connections.
+If you crafted something by mistake or it is no longer needed, throw it into the disassembler.
+Take a look at the built-in code for examples of how to use the API.
+Most programs can be interrupted by pressing Ctrl+Alt+C.
+Paste the contents of the clipboard using the middle mouse button or a custom key (default: paste).
+Computers will consume less power when they are idle, i.e. when os.sleep(n > 0.05) is called.
+Screens will consume more power the more illuminated characters they display.
+Most blocks act like "cables" - they use relays and power distributors to create separate networks.
+Welcome to the dark side - grab some cookies.
+Screens can display Unicode - insert special characters or use unicode.char.
+Run `help` or `man programname` for in-game help on programs shipped with OpenOS - start with `man man`.
+For more help, there is a wiki at https://ocdoc.cil.li/ - or find an IRC loot disk and join #oc.
+Computers have a very simple built-in speaker - control it with computer.beep().
+Many component methods have short documentation - use `=component.componentName.methodName` in the Lua interpreter to see it.
+You can get a list of all connected components with the `components` program.
+If you are facing out of memory errors, add more RAM to your computer.
+Have you tried turning it off and on again?
+Did you know that OpenComputers has a forum? No? Now you know: https://oc.cil.li/.
+Beware of loops when building networks, otherwise you may get duplicate messages!
+Better not open ZentOS code
+ZentOS is a redesigned OpenOS, don't swear
