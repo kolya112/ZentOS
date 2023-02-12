@@ -20,7 +20,6 @@ while true do
   if not result then
     io.stderr:write((reason ~= nil and tostring(reason) or "unknown error") .. "\n")
     io.write("Press any key to continue.\n")
-	io.write("Нажмите любую клавишу для продолжения.\n")
     os.sleep(0.5)
     require("event").pull("key")
   end
